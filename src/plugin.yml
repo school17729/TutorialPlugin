@@ -1,0 +1,10 @@
+main: me.solarstar.Tutorial
+name: Tutorial
+version: 1.0
+author: DawnLamp8
+api-version: 1.19
+description: A Minecraft Plugin developed to teach myself
+commands:
+  getstatistics:
+    description: Gets player statistics
+    usage: /<command>
